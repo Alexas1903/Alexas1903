@@ -1,3 +1,8 @@
+<p align="center" width="100%"> 
+  <img width="100%" src="alexabannergit.jpg">
+</p>
+
+
 # Hola soy Marwill Alexa 👋
 ## Bienvenidos a mi perfil de GitHub
 
