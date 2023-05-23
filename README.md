@@ -7,13 +7,6 @@
 ## Bienvenidos a mi perfil de GitHub
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block"></h1></summary>
-  </ul>
-</div>
-
 
 <!--- snake -->
 <div align="center">
@@ -21,13 +14,6 @@
        alt="snake" /></a>
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
 
 ¡Hola! Soy Marwill Alexa, una entusiasta de la programación y apasionada por la tecnología. Bienvenidos a mi perfil de GitHub, donde encontrarás una variedad de proyectos y contribuciones que reflejan mi experiencia y habilidades en el mundo de la programación.
 
