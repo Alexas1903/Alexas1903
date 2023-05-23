@@ -1,7 +1,7 @@
-### Hola soy Marwill Alexa 👋
-# Bienvenidos a mi perfil de GitHub
+# Hola soy Marwill Alexa 👋
+## Bienvenidos a mi perfil de GitHub
 
-¡Hola! Soy [Marwill Alexa], una entusiasta de la programación y apasionada por la tecnología. Bienvenidos a mi perfil de GitHub, donde encontrarás una variedad de proyectos y contribuciones que reflejan mi experiencia y habilidades en el mundo de la programación.
+¡Hola! Soy Marwill Alexa, una entusiasta de la programación y apasionada por la tecnología. Bienvenidos a mi perfil de GitHub, donde encontrarás una variedad de proyectos y contribuciones que reflejan mi experiencia y habilidades en el mundo de la programación.
 
 ## Sobre mí
 
@@ -18,9 +18,9 @@ Me emociona la idea de trabajar en proyectos retadores y colaborar con un equipo
 
 Aquí hay una muestra de algunos de mis proyectos más destacados:
 
-- **[card validation]**: [Breve descripción del proyecto y su propósito].
-- **[Data Lovers]**: [Breve descripción del proyecto y su propósito].
-- **[Social Network]**: [Breve descripción del proyecto y su propósito].
+- **card validation**: El desarrollo de esta aplicacion Web esta basado en un entorno de pagina de banco donde se validan los datos de una tarjeta de credito mediante el algoritmo de lunh para verificar que la numeracion sea valida. (https://alexas1903.github.io/DEV004-card-validation/).
+- **Data Lovers**: La pagina de Studio ghibli se ha creado con la finalidad de proporcionar información detallada y actualizada sobre sus animaciones .Esto será beneficioso tanto para los fanáticos de la animación como para los investigadores y críticos de cine.interesados en conocer más sobre la obra de esta casa productora.(https://alexas1903.github.io/DEV004-data-lovers/src).
+- **Social Network**: Wanderlust es una red social de viajes donde los usuarios pueden compartir sus aventuras y descubrir nuevos destinos a través de la experiencia de otros viajeros. La aplicación utiliza la tecnología de Firebase para almacenar y recuperar datos de usuarios y publicaciones.(https://wanderlust-kea.netlify.app/).
 
 Te invito a explorar mi repositorio para descubrir más proyectos interesantes.
 
@@ -35,7 +35,7 @@ Si estás interesado en mi trabajo o te gustaría colaborar en un proyecto, no d
 - [LinkedIn](https://www.linkedin.com/in/marwillsh1/)
 - [Correo electrónico](alexas1903@gmail.com)
 
-Siempre estoy dispuesto a discutir ideas, responder preguntas y participar en discusiones sobre programación y tecnología.
+Siempre estoy dispuesta a discutir ideas, responder preguntas y participar en discusiones sobre programación y tecnología.
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres mis proyectos interesantes y útiles. No dudes en explorar mis repositorios y dejar tus comentarios o sugerencias. ¡Espero poder colaborar contigo en el futuro!
 <!--
