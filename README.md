@@ -1,5 +1,5 @@
 <p align="center" width="100%"> 
-  <img width="100%" src="alexabannergit.jpg">
+  <img width="100%" src="file:///C:/Users/alexa/OneDrive/Documentos/alexabannergit.jpg">
 </p>
 
 
